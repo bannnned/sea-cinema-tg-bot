@@ -1,0 +1,302 @@
+[
+  {
+    "id": 101,
+    "seatNo": 1,
+    "showId": 1,
+    "status": "hold"
+  },
+  {
+    "id": 102,
+    "seatNo": 2,
+    "showId": 1,
+    "status": "paid"
+  },
+  {
+    "id": 103,
+    "seatNo": 3,
+    "showId": 1,
+    "status": "paid"
+  },
+  {
+    "id": 104,
+    "seatNo": 4,
+    "showId": 1,
+    "status": "paid"
+  },
+  {
+    "id": 105,
+    "seatNo": 5,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 106,
+    "seatNo": 6,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 107,
+    "seatNo": 7,
+    "showId": 1,
+    "status": "paid"
+  },
+  {
+    "id": 108,
+    "seatNo": 8,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 109,
+    "seatNo": 9,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 110,
+    "seatNo": 10,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 111,
+    "seatNo": 11,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 112,
+    "seatNo": 12,
+    "showId": 1,
+    "status": "hold"
+  },
+  {
+    "id": 113,
+    "seatNo": 13,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 114,
+    "seatNo": 14,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 115,
+    "seatNo": 15,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 116,
+    "seatNo": 16,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 117,
+    "seatNo": 17,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 118,
+    "seatNo": 18,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 119,
+    "seatNo": 19,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 120,
+    "seatNo": 20,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 121,
+    "seatNo": 21,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 122,
+    "seatNo": 22,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 123,
+    "seatNo": 23,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 124,
+    "seatNo": 24,
+    "showId": 1,
+    "status": "free"
+  },
+  {
+    "id": 125,
+    "seatNo": 25,
+    "showId": 1,
+    "status": "paid"
+  },
+  {
+    "id": 201,
+    "seatNo": 1,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 202,
+    "seatNo": 2,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 203,
+    "seatNo": 3,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 204,
+    "seatNo": 4,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 205,
+    "seatNo": 5,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 206,
+    "seatNo": 6,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 207,
+    "seatNo": 7,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 208,
+    "seatNo": 8,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 209,
+    "seatNo": 9,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 210,
+    "seatNo": 10,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 211,
+    "seatNo": 11,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 212,
+    "seatNo": 12,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 213,
+    "seatNo": 13,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 214,
+    "seatNo": 14,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 215,
+    "seatNo": 15,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 216,
+    "seatNo": 16,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 217,
+    "seatNo": 17,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 218,
+    "seatNo": 18,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 219,
+    "seatNo": 19,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 220,
+    "seatNo": 20,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 221,
+    "seatNo": 21,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 222,
+    "seatNo": 22,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 223,
+    "seatNo": 23,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 224,
+    "seatNo": 24,
+    "showId": 2,
+    "status": "free"
+  },
+  {
+    "id": 225,
+    "seatNo": 25,
+    "showId": 2,
+    "status": "paid"
+  }
+]

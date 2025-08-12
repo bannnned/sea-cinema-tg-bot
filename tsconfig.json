@@ -1,0 +1,23 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    "module": "CommonJS", // <– главное
+    "moduleResolution": "node", // <– обычное
+    "target": "ES2020",
+    "esModuleInterop": true, // <– чтобы можно было default-импортить fs и path
+    "types": [
+      "node"
+    ],
+    "sourceMap": true,
+    "declaration": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "strict": true,
+    // "jsx": "react-jsx",
+    // "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    // "moduleDetection": "force",
+    "skipLibCheck": true,
+  }
+}
